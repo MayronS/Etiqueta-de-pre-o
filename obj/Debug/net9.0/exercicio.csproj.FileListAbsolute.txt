@@ -1,0 +1,14 @@
+C:\Users\mayro\OneDrive\Área de Trabalho\testeC#\exercicio\bin\Debug\net9.0\exercicio.exe
+C:\Users\mayro\OneDrive\Área de Trabalho\testeC#\exercicio\bin\Debug\net9.0\exercicio.deps.json
+C:\Users\mayro\OneDrive\Área de Trabalho\testeC#\exercicio\bin\Debug\net9.0\exercicio.runtimeconfig.json
+C:\Users\mayro\OneDrive\Área de Trabalho\testeC#\exercicio\bin\Debug\net9.0\exercicio.dll
+C:\Users\mayro\OneDrive\Área de Trabalho\testeC#\exercicio\bin\Debug\net9.0\exercicio.pdb
+C:\Users\mayro\OneDrive\Área de Trabalho\testeC#\exercicio\obj\Debug\net9.0\exercicio.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mayro\OneDrive\Área de Trabalho\testeC#\exercicio\obj\Debug\net9.0\exercicio.AssemblyInfoInputs.cache
+C:\Users\mayro\OneDrive\Área de Trabalho\testeC#\exercicio\obj\Debug\net9.0\exercicio.AssemblyInfo.cs
+C:\Users\mayro\OneDrive\Área de Trabalho\testeC#\exercicio\obj\Debug\net9.0\exercicio.csproj.CoreCompileInputs.cache
+C:\Users\mayro\OneDrive\Área de Trabalho\testeC#\exercicio\obj\Debug\net9.0\exercicio.dll
+C:\Users\mayro\OneDrive\Área de Trabalho\testeC#\exercicio\obj\Debug\net9.0\refint\exercicio.dll
+C:\Users\mayro\OneDrive\Área de Trabalho\testeC#\exercicio\obj\Debug\net9.0\exercicio.pdb
+C:\Users\mayro\OneDrive\Área de Trabalho\testeC#\exercicio\obj\Debug\net9.0\exercicio.genruntimeconfig.cache
+C:\Users\mayro\OneDrive\Área de Trabalho\testeC#\exercicio\obj\Debug\net9.0\ref\exercicio.dll
